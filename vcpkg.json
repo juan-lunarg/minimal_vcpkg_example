@@ -1,0 +1,7 @@
+{
+    "name": "vulkan-validation-layers",
+    "dependencies": [
+        "vulkan-headers",
+        "gtest"
+    ]
+}
